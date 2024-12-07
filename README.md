@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daftmaple)](https://github.com/daftmaple?tab=repositories)
 
 ## About me
-Full-time frontend engineer (design system maintainer), and casual beat saber player / mapper
+Full-time frontend engineer (design system maintainer), and retired beat saber player / mapper
 
 ## My Socials and Links
 
